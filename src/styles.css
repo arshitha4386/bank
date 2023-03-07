@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url("./assets/bimg/b4.jpg");
+    background-size: cover;
+    margin: 0;
+}
+
+header{
+    color: white;
+    height: 50px;
+    background-color: rgb(25, 83, 116);
+}
+footer{
+    color: white;
+    height: 50px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+    background-color: rgb(68, 56, 238);
+}
